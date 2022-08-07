@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning and working on **ReactJS and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://saurabhrai.netlify.app/](https://saurabhrai.netlify.app/)
--  <a herf="https://codepen.io/raisaurabh">CodePen</a>
+-    <a href="https://codepen.io/raisaurabh">CodePen</a>
 - 📫 How to reach me **saurabhrai265@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
