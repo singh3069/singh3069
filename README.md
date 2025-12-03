@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh3069&label=Profile%20views&color=0e75b6&style=flat" alt="singh3069" /> </p>
 
+- 🏢 I'm currently working at **Connex Carrier Services**
+
 - 🌱 I’m currently learning and working on **ReactJS, NextJS, VueJS, NuxtJS, and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://saurabhrai.netlify.app/](https://saurabhrai.netlify.app/)
